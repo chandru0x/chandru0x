@@ -9,7 +9,7 @@ I’m a full-stack engineer focused on building deterministic systems for real-w
     <img src="https://img.shields.io/github/followers/chandruSofttwig?label=FOLLOW&style=for-the-badge&color=9D4EDD&labelColor=000000">
   </a>
   <a href="https://github.com/chandruSofttwig?tab=repositories">
-    <img src="https://img.shields.io/badge/REPOSITORIES-26-blue?style=for-the-badge&color=9D4EDD&labelColor=000000">
+    <img src="https://img.shields.io/badge/REPOSITORIES-2-blue?style=for-the-badge&color=9D4EDD&labelColor=000000">
   </a>
   <a href="https://github.com/chandruSofttwig?tab=stars">
     <img src="https://img.shields.io/github/stars/chandruSofttwig?label=STARS&style=for-the-badge&color=9D4EDD&labelColor=000000">
@@ -37,9 +37,9 @@ I’m a full-stack engineer focused on building deterministic systems for real-w
     <td align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandruSofttwig&theme=dark&background=000000&ring=9D4EDD&fire=9D4EDD&currStreakLabel=9D4EDD&border=9D4EDD" />
     </td>
-    <td align="center">
+    <!-- <td align="center">
       <img src="https://raw.githubusercontent.com/chandruSofttwig/chandruSofttwig/output/github-contribution-grid-snake-dark.svg" />
-    </td>
+    </td> -->
   </tr>
 </table>
 
