@@ -44,7 +44,7 @@
 </svg>
 
 ```
-  Softtwig Technology Solutions     Backend Engineer          2023 - present
+  Softtwig Technology Solutions     Backend Engineer          2024 - present
   ------------------------------------------------------------------------
   Product  ->  PropTechRadar AI  (Dubai real estate analytics)
   Stack    ->  Java · Spring Boot · Kafka · Redis · PostgreSQL
